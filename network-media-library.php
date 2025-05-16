@@ -475,7 +475,7 @@ class ACF_Value_Filter {
 	}
 }
 
-new ACF_Value_Filter();
+//new ACF_Value_Filter();
 
 /**
  * A class which encapsulates the rendering of ACF field controls.
@@ -518,7 +518,7 @@ class ACF_Field_Rendering {
 	}
 }
 
-new ACF_Field_Rendering();
+//new ACF_Field_Rendering();
 
 /**
  * A class which handles saving the post's featured image ID.
